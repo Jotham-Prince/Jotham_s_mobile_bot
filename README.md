@@ -1,0 +1,3 @@
+## Robot Package Template
+
+This project houses the source code for a mobile object detection and surveillance Robot that supports Teleoperation, can detect objects in it's environment using a camera sensor and transmit it's fottage to an end device such as a phone a computer or a game console. The Robot also uses a LiDAR sensor to create a point cloud representation of its environment and then do localization and object avoidance to avoid hitting any objects in it's environment.
