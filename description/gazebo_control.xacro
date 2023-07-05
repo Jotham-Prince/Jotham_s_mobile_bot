@@ -22,6 +22,11 @@
             <publish_odom_tf>true</publish_odom_tf>
             <publish_wheel_tf>true</publish_wheel_tf>
 
+            <ros>
+                <namespace></namespace>
+                <remapping>cmd_vel:=/merged_cmd_vel</remapping>
+            </ros>
+
         </plugin>
     </gazebo>
 
